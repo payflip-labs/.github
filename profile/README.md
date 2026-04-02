@@ -12,6 +12,8 @@ Money today doesn’t live in one place.
 
 It’s scattered across different systems, each with its own way of working. Every time you want to use it, you’re forced to think about where it is, how to move it, and what steps are required before you can actually pay someone.
 
+And even after that, you often have to wait.
+
 What should be simple ends up feeling like a process.
 
 ---
@@ -20,9 +22,9 @@ What should be simple ends up feeling like a process.
 
 PayFlip removes that complexity.
 
-No matter where your money sits or how it’s stored, you still own it. You should not have to organize anything, move funds around, or decide what to use.
+No matter where your money sits or how it’s stored, you still own it. You shouldn’t have to organize anything, move funds around, or decide what to use.
 
-Your money should be simply there—ready when you need it.
+Your money is simply there, ready when you need it, and ready instantly.
 
 ---
 
@@ -39,9 +41,12 @@ It feels familiar from the first screen.
 
 ## Money without boundaries
 
-Your money shouldn’t be limited by where you are.
+Your money shouldn’t be limited by where it is or how it’s stored.
 
-With PayFlip, you can pay anyone, anywhere in the world, as easily as sending money to someone next to you. Distance disappears, and payments feel instant and effortless.
+With PayFlip, you can pay anyone, anywhere in the world, as easily as sending money to someone next to you.
+
+There are no delays. No waiting for funds to move.  
+Everything works in the moment you need it.
 
 ---
 
@@ -63,9 +68,11 @@ You send money using a name or email, just like any modern app. Even if the reci
 
 ---
 
-## No friction
+## No friction. No waiting.
 
 There’s nothing to prepare. Nothing to manage.
+
+You don’t go through steps, and you don’t wait for money to become usable.
 
 You enter the amount, choose who to send it to, and it’s done.
 
@@ -74,13 +81,15 @@ You enter the amount, choose who to send it to, and it’s done.
 ## Built for how money should work
 
 Money shouldn’t depend on where it sits.  
-It shouldn’t require effort to use.
+It shouldn’t require effort to use.  
+And it shouldn’t take time to move.
 
-With PayFlip, you can pay anyone, anytime, anywhere—without thinking about the process behind it.
+With PayFlip, you can pay anyone, anytime, anywhere without thinking about the process behind it.
 
 ---
 
 ## That’s it
 
 One balance.  
+Instant access.  
 Just enter the amount and send.
